@@ -1,0 +1,13 @@
+{
+  "name": "gulp-autoprefixer-html",
+  "version": "1.0.0",
+  "description": "Like gulp-html-autoprefixer, but with autoprefixer options",
+  "main": "lib/main.js",
+  "repository": "https://github.com/namelos/gulp-autoprefixer-html",
+  "author": "namelos",
+  "license": "MIT",
+  "dependencies": {
+    "autoprefixer-html": "^1.0.0",
+    "event-stream": "^3.3.4"
+  }
+}
